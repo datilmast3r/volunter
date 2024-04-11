@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736276647932",
+    "project_id": "volunter-36223",
+    "storage_bucket": "volunter-36223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736276647932:android:e17f4d4ad739b9efd86c79",
+        "android_client_info": {
+          "package_name": "com.GonzaloSR.volunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBFEGhL6VymsaoOuEcdDuo12_Jf-UY_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
